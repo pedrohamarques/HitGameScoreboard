@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "HitGameScoreboard",
+    "slug": "HitGameScoreboard",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
