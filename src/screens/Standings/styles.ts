@@ -14,7 +14,7 @@ export const Header = styled.View`
 
     align-items: center;
     justify-content: center;
-    background-color: green;
+    background-color: #28B463;
 `;
 
 export const Title = styled.Text`

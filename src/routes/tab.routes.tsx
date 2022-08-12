@@ -14,7 +14,7 @@ export function AppRoutes() {
         <Navigator
             screenOptions={{
                 headerShown: false,
-                tabBarActiveTintColor: 'green',
+                tabBarActiveTintColor: '#28B463',
                 tabBarInactiveTintColor: '#95A5A6',      
                 tabBarActiveBackgroundColor: "#FFFFFF",
                 tabBarInactiveBackgroundColor: '#FFFFFF',

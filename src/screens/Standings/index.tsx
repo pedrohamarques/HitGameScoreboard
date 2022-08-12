@@ -1,7 +1,7 @@
 import React from 'react';
 import { ScrollView, StatusBar } from 'react-native';
 
-import { TeamCard } from '../../components/TeamCard';
+import { TeamData } from '../../components/TeamData';
 import { StandingHeader } from '../../components/StandingHeader';
 
 import {
@@ -26,7 +26,7 @@ export function Standings() {
                     <Content>
                         <StandingHeader />
                         {backEndData.map((item) =>
-                            <TeamCard
+                            <TeamData
                                 aproveitamento={item.aproveitamento}
                                 derrotas={item.derrotas}
                                 empates={item.empates}
